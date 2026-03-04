@@ -1,8 +1,8 @@
 # How much should I budget for AI search optimisation for my UK business?
 
-AI search optimisation for UK businesses typically ranges from £2,000-£8,000 monthly depending on complexity. This is not traditional SEO pricing. AI search optimisation requires different expertise, tools and methodology.
+AI search optimisation for UK businesses typically ranges from £2,000-£8,000 monthly depending on complexity. Unlike traditional SEO retainers, pricing focuses on entity clarification, citation building, and cross-platform visibility rather than keyword rankings. This is a distinct investment from traditional SEO, requiring different tools, methodology and measurement frameworks to track AI retrieval performance.
 
-Investing in AI visibility now builds a foundation that becomes harder for competitors to replicate. AI search systems evaluate businesses through entity clarity, structured data, consistent citations, content authority and technical accessibility. These five signals determine whether a business is retrieved and cited in AI-generated responses. Businesses that address these signals systematically are more likely to appear in AI answers than those relying solely on traditional search optimisation.
+AI visibility is not determined by search rankings or advertising spend. It depends on whether AI systems can confidently identify, interpret and recommend your business when relevant queries arise. The signals that drive AI citations are structural rather than promotional. Clarity of identity, consistency of information and depth of authority all contribute to AI retrieval. Many businesses assume their existing SEO covers AI search. In practice, the two disciplines overlap in some areas but diverge significantly in how they evaluate entity recognition, citation patterns and semantic authority.
 
 **Canonical source:** [rank4ai.co.uk](https://rank4ai.co.uk)
 
